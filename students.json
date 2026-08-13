@@ -1,0 +1,72 @@
+{
+    "Karan Singh": {
+        "name": "Karan Singh",
+        "age": 21,
+        "marks": {
+            "Maths": 90,
+            "Science": 92,
+            "English": 99
+        },
+        "grade": "A"
+    },
+    "Virendra Singh": {
+        "name": "Virendra Singh",
+        "age": 21,
+        "marks": {
+            "Maths": 99,
+            "Science": 97,
+            "English": 99
+        },
+        "grade": "A"
+    },
+    "Kunal Singh": {
+        "name": "Kunal Singh",
+        "age": 18,
+        "marks": {
+            "Maths": 78,
+            "Science": 70,
+            "English": 75
+        },
+        "grade": "C"
+    },
+    "Sayan Ghosh": {
+        "name": "Sayan Ghosh",
+        "age": 20,
+        "marks": {
+            "Maths": 89,
+            "Science": 78,
+            "English": 90
+        },
+        "grade": "B"
+    },
+    "Dhruv Jha": {
+        "name": "Dhruv Jha",
+        "age": 21,
+        "marks": {
+            "Maths": 100,
+            "Science": 100,
+            "English": 100
+        },
+        "grade": "A"
+    },
+    "Vishvesh Gupta": {
+        "name": "Vishvesh Gupta",
+        "age": 21,
+        "marks": {
+            "Maths": 70,
+            "Science": 67,
+            "English": 78
+        },
+        "grade": "C"
+    },
+    "Bhuwan Goyal": {
+        "name": "Bhuwan Goyal",
+        "age": 18,
+        "marks": {
+            "Maths": 77,
+            "Science": 80,
+            "English": 90
+        },
+        "grade": "B"
+    }
+}
